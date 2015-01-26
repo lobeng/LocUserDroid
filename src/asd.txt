@@ -1,0 +1,5 @@
+com.zonesion.loc.droid.client
+com.zonesion.loc.droid.client.offline
+com.zonesion.loc.droid.client.online
+com.zonesion.loc.droid.client.utils
+com.zonesion.loc.droid.map
